@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage {
+    background-color: #03174c;
+    background-size: cover;
+    height: 120vh;
+}
+
+.main-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 250px;
+    padding: 45px;
+    text-align: center;
+    background-size: cover;
+}
+
+.main-image-head {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: "Bree Serif";
+}
+
+.main-image-paragraph {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.nightisland {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 170px;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.nightisland-head {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    text-align: center;
+}
+
+.island-paragraph {
+    color: #ffffff;
+    background-color: #03174c;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.island-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.detailcard-image {
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.detailcard-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 10px;
+}
+
+.detailcard-paragraph {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 10px;
+}
+
+.detailcard-head1 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    padding: 10px;
+}
+
+.moon-image {
+    height: 90px;
+    width: 140px;
+}
+
+.detailcard-paragraph1 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.detailcard-head2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.cloud-card {
+    margin: 5px;
+}
